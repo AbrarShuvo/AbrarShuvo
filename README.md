@@ -4,6 +4,8 @@ I'm a Python developer who builds **automations, AI integrations and data dashbo
 
 I like taking a messy, manual process, like copying emails into spreadsheets or turning meeting notes into tasks, and turning it into a system that runs on its own and shows what's working.
 
+🌐 Portfolio: [abrarshuvo.github.io](https://abrarshuvo.github.io/)
+
 ## What I build
 
 - **Workflow automation:** emails, forms and documents turned into structured data, automatically
